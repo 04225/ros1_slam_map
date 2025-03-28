@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find urdf02_gazebo)/launch/rviz01.launch" />
+  <include file="$(find urdf02_gazebo)/launch/move.launch" />
+  
+</launch>

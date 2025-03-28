@@ -1,0 +1,7 @@
+image: /home/young/MYrosfish/map_ws/src/urdf02_gazebo/map/nav.pgm       #图片路径
+resolution: 0.050000      #地图分辨率，米每像素
+origin: [-50.000000, -50.000000, 0.000000]    #位姿信息
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

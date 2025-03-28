@@ -1,0 +1,8 @@
+prefix=/home/young/MYrosfish/map_ws/install_isolated
+
+Name: urdf02_gazebo
+Description: Description of urdf02_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
