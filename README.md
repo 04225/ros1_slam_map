@@ -1,2 +1,2 @@
 ros课程
-在ros1_notic下进行slam建图
+在ros1_noetic下进行slam建图
