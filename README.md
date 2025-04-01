@@ -1,1 +1,2 @@
-弄着玩
+ros课程
+在ros1_notic下进行slam建图
